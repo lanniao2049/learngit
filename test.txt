@@ -1,0 +1,5 @@
+This is idea test file.
+2020
+    salary:25K
+2021:
+    salary:35K
